@@ -10,11 +10,14 @@
 
 <p align="center">
 - 🌱 I’m currently Working as a **Full Stack Web Developer**
-
+  </p>
+<p align="center">
 - 💬 Ask me about **React, JavaScript, Redux, NodeJs, MongoDB, Express**
-
+  </p>
+<p align="center">
 - 📫 How to reach me **umeshramyadav0022@gmail.com**
-
+  </p>
+<p align="center">
 - ⚡ Fun fact **Listening Music.**
 </p>
 <h3 align="center">Connect with me:</h3>
