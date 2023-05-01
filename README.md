@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Yadav</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<p align="center">
-![Coding](https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966)
+
+![Coding]<p align="center">(https://camo.githubusercontent.com/b031dd766cfe15f73313260e8ef489bd6437fa30c84765973bb2fa059175789d/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31382f61342f39342f31386134393439666339633830363731373264336239366533303265373039372e676966)
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=codelover7771&label=Profile%20views&color=0e75b6&style=flat" alt="codelover7771" /> </p>
 
